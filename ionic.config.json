@@ -1,0 +1,7 @@
+{
+  "name": "thirdIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
