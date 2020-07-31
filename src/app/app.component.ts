@@ -55,7 +55,27 @@ export class AppComponent implements OnInit {
     {
       title: 'Chip',
       url: 'chip',
-      icon: 'chips'
+      icon: 'hardware-chip'
+    },
+    {
+      title: 'Content',
+      url: 'content',
+      icon: 'albums'
+    },
+    {
+      title: 'Date Time',
+      url: 'date-time',
+      icon: 'calendar'
+    },
+    {
+      title: 'Fab',
+      url: 'fab',
+      icon: 'fab'
+    },
+    {
+      title: 'Grid',
+      url: 'grid',
+      icon: 'grid'
     },
 
   ];
