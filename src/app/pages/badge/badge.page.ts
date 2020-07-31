@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BadgePage implements OnInit {
 
+  notifications: number = 150
+
   constructor() { }
 
   ngOnInit() {

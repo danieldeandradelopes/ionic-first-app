@@ -42,6 +42,21 @@ export class AppComponent implements OnInit {
       url: 'badge',
       icon: 'close'
     },
+    {
+      title: 'Card',
+      url: 'card',
+      icon: 'card'
+    },
+    {
+      title: 'Checkbox',
+      url: 'checkbox',
+      icon: 'checkbox'
+    },
+    {
+      title: 'Chip',
+      url: 'chip',
+      icon: 'chips'
+    },
 
   ];
   public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
